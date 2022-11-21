@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @seenamakari
-- 👀 I’m building Ogma - a B2B EdTech startup 
+- 👀 My goal is to launch a startup that makes web development accessible to everyone. 
 - 🌱 I’m currently learning web development (HTML, CSS, JS, Node.js, MySQL, etc.)
 
 
