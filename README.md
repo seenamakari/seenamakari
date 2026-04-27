@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @seenamakari
-- 👀 My goal is to launch a startup that makes web development accessible to everyone. 
-- 🌱 I’m currently learning web development 
+- 👀 I'm a global optimist
 
 
 <!---
